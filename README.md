@@ -7,3 +7,7 @@ Fonctionnalités
 Afficher un message de bienvenue.
 
 Simuler l'évolution du projet avec des branches Git.
+
+## Contribution du deuxième développeur
+
+Cette section a été ajoutée pour simuler une contribution collaborative avec Git.
