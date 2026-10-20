@@ -7,3 +7,4 @@ Fonctionnalités
 Afficher un message de bienvenue.
 
 Simuler l'évolution du projet avec des branches Git.
+Test de la commande git revert.
